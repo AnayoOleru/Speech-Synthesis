@@ -18,7 +18,7 @@ html {
     background-size:100px 50px;
   }
   
-  .voiceinator {
+  .Synthesis{
     padding: 2rem;
     width: 50rem;
     margin: 0 auto;
@@ -43,10 +43,10 @@ html {
     text-shadow: 3px 3px 0 rgb(255, 255, 255);
   }
   
-  .voiceinator input,
-  .voiceinator button,
-  .voiceinator select,
-  .voiceinator textarea {
+  .Synthesis input,
+  .Synthesis button,
+  .Synthesis select,
+  .Synthesis textarea {
     width: 100%;
     display: block;
     margin: 10px 0;
@@ -65,7 +65,7 @@ html {
   
   }
   
-  .voiceinator button {
+  .Synthesis button {
     background: rgb(155, 170, 22);
     border: 0;
     width: 49%;
@@ -78,7 +78,7 @@ html {
     position: relative;
   }
 
-  .voiceinator button:hover{
+  .Synthesis button:hover{
     background: rgb(126, 138, 21);
     border: 0;
     width: 49%;
@@ -91,11 +91,11 @@ html {
     position: relative;
   }
   
-  .voiceinator button:active {
+  .Synthesis button:active {
     top: 2px;
   }
   
-  .voiceinator button:nth-of-type(1) {
+  .Synthesis button:nth-of-type(1) {
     margin-right: 2%;
   }
   
