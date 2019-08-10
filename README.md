@@ -1,2 +1,2 @@
 # Speech-Synthesis
-Day 20: 'Speech-to-text'
+Day 20: 'Text-to-speech'
